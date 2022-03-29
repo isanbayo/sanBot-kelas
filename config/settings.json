@@ -1,0 +1,34 @@
+{
+	"botPrefix": ".",
+	"campusName": "Universitas Teknokrat Indonesia",
+	"classGroupName": "QnA",
+	"classGroupId": "6285384932392-1636383435@g.us",
+	"className": "Teknik Informatika",
+	"classCode": "TI",
+	"classSemester": "Smester6",
+	"classCategory": "siang-malam",
+	"classTeacher": "Ihsan, S.arkas, M.ager",
+	"nomicsAPI": {
+		"endpoint": "https://api.nomics.com/v1/currencies/ticker?",
+		"key": "key=[6956fd2bbd91e7153703e6794d6efd034cdb4b9e]&"
+	},
+	"libretranslateAPI": {
+		"endpoint": "https://translate.argosopentech.com/translate"
+	},
+	"wikiAPI": {
+		"endpoint": "https://id.wikipedia.org/w/api.php"
+	},
+	"youtubeDownloader": {
+		"endpoint": "https://api.fastfrom.com/download"
+	},
+	"youtubeMp3": {
+		"endpoint": "https://www.yt-download.org/api/button/mp3/"
+	},
+	"cuttly": {
+		"endpoint": "http://cutt.ly/api/api.php?",
+		"key": "key=[7a38dda656ace08f1bacae6586dc9f858d281]&"
+	},
+	"kbbi": {
+		"endpoint": "https://kateglo.com/api.php"
+	}
+}

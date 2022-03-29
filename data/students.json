@@ -1,0 +1,37 @@
+[
+	{
+		"nim": "19312194",
+		"fullName": "M Ihsan Fadilah",
+		"contact": {
+			"whatsapp": "628975767944",
+			"email": "isanbayo@gmail.com"
+		},
+		"firstName": "M",
+		"middleName": "Ihsan",
+		"lastName": "Fadilah",
+		"complete": true,
+		"data": {
+			"birth": "Sidomulyo, 14 Agustus 2000",
+			"address": "sidomulyo",
+			"diseaseHistory": "Asma",
+			"favDrink": "Es mama Muda",
+			"favFood": "nasgor",
+			"favAnimal": "Kupu-kupu",
+			"favColor": "biru",
+			"favWatch": "You're Apple in My Eyes",
+			"favMusic": "superiot",
+			"alergy": "Susu tetangga",
+			"weight": "55",
+			"height": "180",
+			"hobby": "membully",
+			"favSport": "membully sambil lari",
+			"oneWord": "Selamanya",
+			"motto": "Jangan pernah menyerah",
+			"favFigure": "Soekarno",
+			"favBook": "Seirei Gensouki",
+			"future": "Membuat restoran",
+			"regret": "Boros uang",
+			"message": "Halo teman-teman sekelas, mari berteman"
+		}
+	}
+]
